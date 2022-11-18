@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>Hello Coursera!</head>
-<body>
+<body>text above heading
 <h1>Hello coursera 1.</h1>
-</body>
-</html>
+text below heading</body>
+</html
