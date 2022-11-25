@@ -1,8 +1,12 @@
-# Coursera-test
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>Hello Coursera!</head>
-<body>text above heading
-<h1>Hello coursera 1.</h1>
-text below heading</body>
-</html
+<head>
+<meta charset="utf-8">
+<title>Coursera is cool!</title>
+</head>
+<body>
+	<div>new div element</div>
+	<div>another new div elemet<span>a span inline element inside div</span>Div content continues</div>
+Coursera is OK.I am learning a lot!
+</body>
+</html>
