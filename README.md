@@ -28,8 +28,13 @@
 		<li>pepto bismol</li>
   </ul>
  </ul>
-
-	</div>
+</div>
+<section>
+<p>Lets provide a link to an astrology page:
+<a href="https://cafeastrology.com/" target="_blank" title="like our page">Link to Cafeastrology website</a>
+</p>
+</section>
+	
 <div>another new div elemet<span>a span inline element inside div</span>Div content continues</div>
 Coursera is OK.I am learning a lot!
 </body>
