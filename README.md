@@ -18,6 +18,18 @@
 <h3>Subheading3</h3>
 <h4>Subheading4</h4>
 <div>new div element</div>
+ <div>My typical dinner shopping list
+<ul>
+	<li>milk</li>
+		<li>chocolate</li>
+		<li>sugar</>
+ <li>cookies</li>
+  <ul>
+		<li>pepto bismol</li>
+  </ul>
+ </ul>
+
+	</div>
 <div>another new div elemet<span>a span inline element inside div</span>Div content continues</div>
 Coursera is OK.I am learning a lot!
 </body>
