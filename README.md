@@ -3,6 +3,18 @@
 <head>
 <meta charset="utf-8">
 <title>Coursera is cool!</title>
+<style>
+p {
+ color: blue;
+ font-size: 20px;
+ width: 200px;
+}
+h1 {
+ color: green;
+ font-size: 36px;
+ text-align: center;
+}
+</style>	
 </head>
 <body>
 <header>Header element. Some header info goes here like company logo or naviagtion element.
