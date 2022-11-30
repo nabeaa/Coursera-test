@@ -34,7 +34,10 @@
 <a href="https://cafeastrology.com/" target="_blank" title="like our page">Link to Cafeastrology website</a>
 </p>
 </section>
-	
+<p>
+<img src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2061&q=80" 
+width="640" height="480">
+</p>	
 <div>another new div elemet<span>a span inline element inside div</span>Div content continues</div>
 Coursera is OK.I am learning a lot!
 </body>
